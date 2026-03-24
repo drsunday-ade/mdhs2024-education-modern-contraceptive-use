@@ -1,0 +1,26 @@
+model,term,effect,lcl,ucl,p_value
+Model S0 (screening spec; PR),Education: Primary,1.129,1.063,1.198,8.19e-5
+Model S0 (screening spec; PR),Education: Secondary,1.096,1.025,1.171,0.0076
+Model S0 (screening spec; PR),Education: Higher,0.843,0.744,0.956,0.00785
+Model S0 (screening spec; PR),Wealth: Q2 Poorer,0.992,0.95,1.036,0.722
+Model S0 (screening spec; PR),Wealth: Q3 Middle,0.997,0.953,1.044,0.906
+Model S0 (screening spec; PR),Wealth: Q4 Richer,1.026,0.981,1.073,0.264
+Model S0 (screening spec; PR),Wealth: Q5 Richest,1.015,0.96,1.074,0.599
+Model S0 (screening spec; PR),Residence: Rural,1.039,0.986,1.095,0.151
+Model S0 (screening spec; PR),Region: central,1.197,1.136,1.261,2.79e-11
+Model S0 (screening spec; PR),Region: southern,1.035,0.984,1.089,0.183
+Model S0 (screening spec; PR),Age (years),1.001,0.999,1.002,0.437
+Model S1 (age spline; PR),Education: Primary,1.11,1.046,1.178,6.37e-4
+Model S1 (age spline; PR),Education: Secondary,1.058,0.99,1.131,0.0944
+Model S1 (age spline; PR),Education: Higher,0.812,0.716,0.921,0.00121
+Model S1 (age spline; PR),Wealth: Q2 Poorer,0.991,0.95,1.034,0.679
+Model S1 (age spline; PR),Wealth: Q3 Middle,0.994,0.95,1.04,0.787
+Model S1 (age spline; PR),Wealth: Q4 Richer,1.023,0.979,1.07,0.31
+Model S1 (age spline; PR),Wealth: Q5 Richest,1.011,0.956,1.071,0.694
+Model S1 (age spline; PR),Residence: Rural,1.045,0.991,1.101,0.102
+Model S1 (age spline; PR),Region: central,1.18,1.12,1.244,9.68e-10
+Model S1 (age spline; PR),Region: southern,1.024,0.973,1.077,0.359
+Model S1 (age spline; PR),Age (spline basis)1,1.361,1.233,1.502,1.36e-9
+Model S1 (age spline; PR),Age (spline basis)2,1.348,1.228,1.481,6.89e-10
+Model S1 (age spline; PR),Age (spline basis)3,1.748,1.377,2.219,5e-6
+Model S1 (age spline; PR),Age (spline basis)4,0.894,0.825,0.968,0.00616

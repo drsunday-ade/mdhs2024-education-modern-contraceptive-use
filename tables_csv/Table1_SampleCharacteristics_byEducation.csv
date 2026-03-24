@@ -1,0 +1,5 @@
+educ,n_unw,pop_share_wt,age_mean,age_lcl,age_ucl,urban_share,urban_lcl,urban_ucl,modern_prev,modern_lcl,modern_ucl
+No education,1222,8.7%,37,36.3,37.6,6.7%,4.8%,8.5%,57.3%,53.9%,60.7%
+Primary,10461,67.5%,30.9,30.7,31.1,10.6%,9.7%,11.5%,64.5%,63.2%,65.8%
+Secondary,3883,21.6%,30.3,30,30.6,31.2%,29.0%,33.4%,62.2%,60.2%,64.1%
+Higher,432,2.2%,33.7,32.9,34.5,65.4%,57.9%,72.9%,48.2%,43.0%,53.5%

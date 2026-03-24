@@ -1,0 +1,19 @@
+educ,wealth_q,modern_prev,lcl,ucl
+No education,Q1 Poorest,57.9%,51.1%,64.6%
+Primary,Q1 Poorest,64.7%,62.3%,67.0%
+Secondary,Q1 Poorest,68.7%,62.4%,75.1%
+No education,Q2 Poorer,58.3%,52.2%,64.3%
+Primary,Q2 Poorer,63.8%,61.3%,66.3%
+Secondary,Q2 Poorer,62.9%,57.3%,68.6%
+No education,Q3 Middle,56.5%,49.5%,63.5%
+Primary,Q3 Middle,64.8%,62.5%,67.2%
+Secondary,Q3 Middle,58.2%,53.2%,63.3%
+Higher,Q3 Middle,16.6%,-15.9%,49.2%
+No education,Q4 Richer,55.7%,47.3%,64.0%
+Primary,Q4 Richer,65.6%,63.1%,68.0%
+Secondary,Q4 Richer,62.6%,58.5%,66.7%
+Higher,Q4 Richer,47.8%,9.9%,85.7%
+No education,Q5 Richest,57.1%,47.4%,66.9%
+Primary,Q5 Richest,63.5%,60.5%,66.5%
+Secondary,Q5 Richest,62.1%,59.1%,65.0%
+Higher,Q5 Richest,48.8%,43.6%,54.1%
